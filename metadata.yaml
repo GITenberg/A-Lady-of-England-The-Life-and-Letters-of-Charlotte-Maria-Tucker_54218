@@ -1,11 +1,16 @@
 _repo: A-Lady-of-England-The-Life-and-Letters-of-Charlotte-Maria-Tucker_54218
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54218-h/images/cover.jpg
 creator:
   author:
     agent_name: Giberne, Agnes
     gutenberg_agent_id: '47772'
     url: http://www.gutenberg.org/2009/agents/47772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54218#A-Lady-of-England-The-Life-and-Letters-of-Charlotte-Maria-Tucker
 gutenberg_issued: '2017-02-21'
 gutenberg_type: Text
 identifiers:
